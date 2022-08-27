@@ -20,3 +20,9 @@ Genç beyinler inovatif projeler düşüncesiyle yola çıkmış bir grup gencin
 Daha fazlası için [takipte](https://kernelblog.org) kalın!
 
 Sizlerde ekibimizin bir parçası olmak istiyorsanız, bizimle iletişime geçmeniz yeterlidir.
+
+## İletişim
+
+- info@kernelblog.org
+- delosemre@kernelblog.org
+- emre@kernelblog.org
