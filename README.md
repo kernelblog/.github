@@ -8,6 +8,7 @@ Genç beyinler inovatif projeler düşüncesiyle yola çıkmış bir grup gencin
 - [Siber Güvenlik](https://kernelblog.org/kategori/siber-guvenlik/)
 - [Röportajlar](https://kernelblog.org/kategori/roportajlar/)
 - [✨  Kendi  Zafiyetli Makinelerimiz ✨](https://kernelblog.org/zafiyetli-makinelerimiz/)
+- [Github Topluluk](https://github.com/orgs/kernelblog/discussions)
 
 
 ## Projelerimiz
